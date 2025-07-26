@@ -1,0 +1,9 @@
+*.pt
+*.weight
+*.safetensors
+*.onnx
+*.json
+*.txt
+*.log
+*.pyc
+assets/
