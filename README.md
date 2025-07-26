@@ -1,6 +1,6 @@
 # qnn-mha2sha
 This repo contains `MHA2SHA` for:
-- Orignial MHA2SHA for `Qwen2`
+- Orignial MHA2SHA for `Qwen2.5`
 - Modified MHA2SHA for `Qwen3` with RMS Norm for `q-proj` and `k-proj`
 - Modified MHA2SHA for `Qwen3` with RMS Norm for `q-proj` and `k-proj`, and RMSNorm Cast op removed, and `rmsnorm_update` changed.
 - Modified MHA2SHA for `Qwen3` with RMS Norm for `q-proj`, `k-proj` and `v-proj`, in preperation for Gemma3n model

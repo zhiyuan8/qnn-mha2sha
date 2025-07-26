@@ -1,0 +1,7 @@
+lora_adaptor_list:
+  - name: french
+    encodings_path: /prj/corp/crd/morpheus/lasvegas/user_scratch/huawa/mha_kvcache_lora_conv_ar1/onnx/llamav2_kvcache_adapter2.encodings
+    safetensor_path: /prj/corp/crd/morpheus/lasvegas/user_scratch/huawa/mha_kvcache_lora_conv_ar1/onnx/french_onnx.safetensor
+  - name: oasst
+    encodings_path: /prj/corp/crd/morpheus/lasvegas/user_scratch/huawa/mha_kvcache_lora_conv_ar1/onnx/llamav2_kvcache_adapter1.encodings
+    safetensor_path: /prj/corp/crd/morpheus/lasvegas/user_scratch/huawa/mha_kvcache_lora_conv_ar1/onnx/oasst_onnx.safetensor
